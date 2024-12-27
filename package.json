@@ -1,0 +1,24 @@
+{
+  "name": "date-utils",
+  "version": "1.0.0",
+  "description": "date-util for common use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThuNX117/dateUtils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThuNX117/dateUtils/issues"
+  },
+  "homepage": "https://github.com/ThuNX117/dateUtils#readme",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
